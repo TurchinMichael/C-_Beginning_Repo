@@ -93,7 +93,7 @@ namespace CSharp_Beginning_HW2
             {
                 try
                 {
-                    numberMonth = int.Parse(Console.ReadLine());
+                    numberMonth = Convert.ToInt32(Console.ReadLine());//int.Parse(Console.ReadLine());
 
                         switch (numberMonth)
                         {

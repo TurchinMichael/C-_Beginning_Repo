@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace CSharp_Beginning_HW2
 {
@@ -17,9 +18,11 @@ namespace CSharp_Beginning_HW2
             full        = 0b0_111_111
         }
 
+        /*
         [Flags]
         enum month
         {
+            
             Январь = 1,
             Февраль,
             Март,
@@ -33,7 +36,7 @@ namespace CSharp_Beginning_HW2
             Ноябрь,
             Декабрь
         }
-
+        */
         static void Main(string[] args)
         {
             #region periphery
@@ -79,13 +82,14 @@ namespace CSharp_Beginning_HW2
                 }
                 catch
                 {
-                    Console.WriteLine("Не был введен номер месяца.  Введите корректное число");
+                    Console.WriteLine("Не была введена среднесуточная температура.  Введите корректное число");
                 }
             }
             reverce();
             #endregion 1
 
 
+            /*
             #region 2 VAR 1 Запросить у пользователя порядковый номер текущего месяца и вывести его название.
             Console.WriteLine("\nВведите номер любого месяца");
             
@@ -95,52 +99,66 @@ namespace CSharp_Beginning_HW2
                 {
                     numberMonth = Convert.ToInt32(Console.ReadLine());//int.Parse(Console.ReadLine());
 
-                        switch (numberMonth)
+                    Console.WriteLine(new DateTime(1999, numberMonth, 01).ToString("MMMM", CultureInfo.CurrentCulture));
+
+                    // string MonthName = DateTime.Now.ToString("MMMM", CultureInfo.CurrentCulture);
+
+                    // var date = new DateTime(today.Year, DateTime.ParseExact(start, "MMMM", CultureInfo.CurrentCulture).Month, 1);
+
+                    // Console.WriteLine(date:"MMMM"); //new DateTime(1999, numberMonth, 01)
+
+                    /*
+                    switch (numberMonth)
                         {
                             case 1:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            //Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
                                 rainyWinter(average);
-                                break;
+                            break;
                             case 2:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                rainyWinter(average);
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            rainyWinter(average);
                                 break;
                             case 3:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                break;
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            break;
                             case 4:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                break;
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            break;
                             case 5:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                break;
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            break;
                             case 6:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                break;
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            break;
                             case 7:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                break;
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            break;
                             case 8:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                break;
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            break;
                             case 9:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                break;
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            break;
                             case 10:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                break;
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            break;
                             case 11:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                break;
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            break;
                             case 12:
-                                Console.WriteLine(Enum.GetName(typeof(month), numberMonth));
-                                rainyWinter(average);
+                            Console.WriteLine(new DateTime(1999, numberMonth, 01).Month);
+                            rainyWinter(average);
                                 break;
                             default:
                                 Console.WriteLine("\nМесяца находятся в диапазоне 1-12. Введите подходящее число");
                                 reverce(); // лучше не придумалось :С
                             break;
+
                     }
+                    */
+
+                    /*
                     reverce();
                 }
                 catch
@@ -149,8 +167,8 @@ namespace CSharp_Beginning_HW2
                 }
             }
             reverce();
-            #endregion 2 VAR 1
-
+            #endregion 2 VAR 1 
+        */
 
             #region 2 VAR 2 Запросить у пользователя порядковый номер текущего месяца и вывести его название.
             Console.WriteLine("\nВведите номер любого месяца");
@@ -159,7 +177,25 @@ namespace CSharp_Beginning_HW2
             {
                 try
                 {
-                    numberMonth = int.Parse(Console.ReadLine());                    
+                    numberMonth = int.Parse(Console.ReadLine());
+
+                    Console.WriteLine(new DateTime(1999, numberMonth, 01).ToString("MMMM", CultureInfo.CurrentCulture));
+
+                    if (0 < numberMonth && numberMonth < 13)
+                    {
+                        if (numberMonth == 1 || numberMonth == 2 || numberMonth == 12)
+                        {
+                            rainyWinter(average);
+                        }
+
+                        reverce();
+                    }
+                    else
+                    {
+                        Console.WriteLine("\nМесяца должны находиться в диапазоне 1-12. Введите подходящее число");
+                    }
+
+                    /*
 
                     if (Enum.IsDefined(typeof(month), numberMonth))
                     {
@@ -176,10 +212,11 @@ namespace CSharp_Beginning_HW2
                     {
                         Console.WriteLine("\nМесяца находятся в диапазоне 1-12. Введите подходящее число");
                     }
+                    */
                 }
                 catch
                 {
-                    Console.WriteLine("\nНе был введен номер месяца");
+                    Console.WriteLine("\nНе был введен номер месяца. Месяца должны находиться в диапазоне значений 1-12.");
                 }
             }
             reverce();

@@ -1,0 +1,11 @@
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\obj\Debug\netcoreapp3.0\CSharp_Beginning_HW2.csprojAssemblyReference.cache
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\obj\Debug\netcoreapp3.0\CSharp_Beginning_HW2.AssemblyInfoInputs.cache
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\obj\Debug\netcoreapp3.0\CSharp_Beginning_HW2.AssemblyInfo.cs
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\bin\Debug\netcoreapp3.0\CSharp_Beginning_HW2.exe
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\bin\Debug\netcoreapp3.0\CSharp_Beginning_HW2.deps.json
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\bin\Debug\netcoreapp3.0\CSharp_Beginning_HW2.runtimeconfig.json
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\bin\Debug\netcoreapp3.0\CSharp_Beginning_HW2.runtimeconfig.dev.json
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\bin\Debug\netcoreapp3.0\CSharp_Beginning_HW2.dll
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\bin\Debug\netcoreapp3.0\CSharp_Beginning_HW2.pdb
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\obj\Debug\netcoreapp3.0\CSharp_Beginning_HW2.dll
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW2\CSharp_Beginning_HW2\CSharp_Beginning_HW2\obj\Debug\netcoreapp3.0\CSharp_Beginning_HW2.pdb

@@ -17,10 +17,12 @@ namespace HW3
                 for (int j = 0; j < intArr.GetLength(1); j++)
                 {
                     intArr[i, j] = rand.Next(10); // до 10, чтобы смотрелось красиво
-
-                    escape = escape + " ";
-
-                    Console.WriteLine($"{escape}{intArr[i, j]}");
+                    
+                    if (i == j)
+                    {
+                        Console.WriteLine($"{escape}{intArr[i, j]}");
+                        escape = escape + " ";
+                    }
                 }
             }
 

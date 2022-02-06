@@ -1,0 +1,11 @@
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\bin\Debug\netcoreapp3.0\HW3.exe
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\bin\Debug\netcoreapp3.0\HW3.deps.json
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\bin\Debug\netcoreapp3.0\HW3.runtimeconfig.json
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\bin\Debug\netcoreapp3.0\HW3.runtimeconfig.dev.json
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\bin\Debug\netcoreapp3.0\HW3.dll
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\bin\Debug\netcoreapp3.0\HW3.pdb
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\obj\Debug\netcoreapp3.0\HW3.csprojAssemblyReference.cache
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\obj\Debug\netcoreapp3.0\HW3.AssemblyInfoInputs.cache
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\obj\Debug\netcoreapp3.0\HW3.AssemblyInfo.cs
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\obj\Debug\netcoreapp3.0\HW3.dll
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW3\HW3\obj\Debug\netcoreapp3.0\HW3.pdb

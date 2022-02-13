@@ -1,0 +1,9 @@
+
+G:\ExampleDir\Notes
+G:\ExampleDir\sd.txt
+G:\ExampleDir\Notes\jgjyg.txt
+G:\ExampleDir\Notes\Notes 2
+G:\ExampleDir\Notes\Notes1
+G:\ExampleDir\Notes\Notes1\gs.txt
+G:\ExampleDir\Notes\Notes1\Notes 3
+G:\ExampleDir\Notes\Notes1\Notes 3\wqe.txt

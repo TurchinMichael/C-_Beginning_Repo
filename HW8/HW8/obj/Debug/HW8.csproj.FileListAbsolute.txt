@@ -1,0 +1,8 @@
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW8\HW8\bin\Debug\HW8.exe.config
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW8\HW8\bin\Debug\HW8.exe
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW8\HW8\bin\Debug\HW8.pdb
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW8\HW8\obj\Debug\HW8.csprojAssemblyReference.cache
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW8\HW8\obj\Debug\HW8.Properties.Resources.resources
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW8\HW8\obj\Debug\HW8.csproj.GenerateResource.cache
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW8\HW8\obj\Debug\HW8.exe
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW8\HW8\obj\Debug\HW8.pdb

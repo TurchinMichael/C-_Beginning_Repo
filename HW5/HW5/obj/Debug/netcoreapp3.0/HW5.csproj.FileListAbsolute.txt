@@ -1,0 +1,13 @@
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\bin\Debug\netcoreapp3.0\HW5.exe
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\bin\Debug\netcoreapp3.0\HW5.deps.json
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\bin\Debug\netcoreapp3.0\HW5.runtimeconfig.json
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\bin\Debug\netcoreapp3.0\HW5.runtimeconfig.dev.json
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\bin\Debug\netcoreapp3.0\HW5.dll
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\bin\Debug\netcoreapp3.0\HW5.pdb
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\obj\Debug\netcoreapp3.0\HW5.csprojAssemblyReference.cache
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\obj\Debug\netcoreapp3.0\HW5.AssemblyInfoInputs.cache
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\obj\Debug\netcoreapp3.0\HW5.AssemblyInfo.cs
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\obj\Debug\netcoreapp3.0\HW5.dll
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\obj\Debug\netcoreapp3.0\HW5.pdb
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+G:\GB_C#\Введение_в_C#\C#_Beginning_Repo\HW5\HW5\obj\Debug\netcoreapp3.0\HW5.csproj.CopyComplete
